@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-12T15:22:38.361043",
+    "car_data": {
+      "year": 1395,
+      "mileage": 120000,
+      "brand": "پراید"
+    },
+    "predicted_price": 250000000,
+    "actual_price": 240000000,
+    "error": 10000000
+  },
+  {
+    "timestamp": "2025-08-12T15:22:38.361372",
+    "car_data": {
+      "year": 1390,
+      "mileage": 180000,
+      "brand": "پژو"
+    },
+    "predicted_price": 450000000,
+    "actual_price": 470000000,
+    "error": 20000000
+  },
+  {
+    "timestamp": "2025-08-12T15:22:38.361528",
+    "car_data": {
+      "year": 1392,
+      "mileage": 200000,
+      "brand": "سمند"
+    },
+    "predicted_price": 350000000,
+    "actual_price": 330000000,
+    "error": 20000000
+  }
+]
